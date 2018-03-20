@@ -14,10 +14,9 @@ We proposed a new Portfolio Management method termed as ***Robust Log-Optimal St
 
 Back Test Result
 ====
-![image](https://github.com/fxy96/SYSU-ZhaoXu-Machine-Learning-Seminar/blob/master/open_ceremony1.jpg)
-![image](https://github.com/fxy96/SYSU-ZhaoXu-Machine-Learning-Seminar/blob/master/open_ceremony2.jpg)
-![image](https://github.com/fxy96/SYSU-ZhaoXu-Machine-Learning-Seminar/blob/master/courses.jpg)
-![image](https://github.com/fxy96/SYSU-ZhaoXu-Machine-Learning-Seminar/blob/master/discussion.jpg)
+![image](https://github.com/fxy96/Robust-Log-Optimal-Strategy-with-Reinforcement-Learning/blob/master/500.png)
+![image](https://github.com/fxy96/Robust-Log-Optimal-Strategy-with-Reinforcement-Learning/blob/master/1000.png)
+![image](https://github.com/fxy96/Robust-Log-Optimal-Strategy-with-Reinforcement-Learning/blob/master/1500.png)
 
 Set up
 ====

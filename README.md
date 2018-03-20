@@ -5,7 +5,7 @@ Contributions
 - There are 4 contributors to this work: ***YiFeng Guo***; ***XingYu Fu***; ***YuYan Shi***; ***MingWen Liu***.<br>
 - This Research is sponsored by ***ZhaoXu Asset Management(Gradient Trading)***.<br>
 - It is free to use the code for NON-COMMERCIAL purposes.<br>
-- For further contact, you can send email to fuxy28@mail2.sysu.edu.cn<br>
+- For further contact, you can send email to ***fuxy28@mail2.sysu.edu.cn***<br>
 
 Sketch
 ====

@@ -14,8 +14,6 @@ We proposed a new Portfolio Management method termed as ***Robust Log-Optimal St
 
 Back Test Result
 ====
-![image](https://github.com/fxy96/Robust-Log-Optimal-Strategy-with-Reinforcement-Learning/blob/master/500.png)
-![image](https://github.com/fxy96/Robust-Log-Optimal-Strategy-with-Reinforcement-Learning/blob/master/1000.png)
 ![image](https://github.com/fxy96/Robust-Log-Optimal-Strategy-with-Reinforcement-Learning/blob/master/1500.png)
 
 Set up

@@ -4,7 +4,11 @@
 Contributions
 ====
 - There are 4 contributors to this work: ***YiFeng Guo***; ***XingYu Fu***; ***YuYan Shi***; ***MingWen Liu***.<br>
-- This Research is sponsored by ***Gradient Trading***.<br>
+- This research project is finished in ***AI&FintechLab of Likelihood Technology***.
+- We also receive sponsor from ***Gradient Trading***.<br>
+
+About
+====
 - For details of our research, you can visit: ***http://arxiv.org/abs/1805.00205*** <br>
 - It is free to use the code for NON-COMMERCIAL purposes.<br>
 - For further contact, you can send email to ***fuxy28@mail2.sysu.edu.cn***<br>

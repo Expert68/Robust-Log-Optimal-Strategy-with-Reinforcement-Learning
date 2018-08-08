@@ -5,7 +5,7 @@ Contributions
 ====
 - There are 4 contributors to this work: ***YiFeng Guo***; ***XingYu Fu***; ***YuYan Shi***; ***MingWen Liu***.<br>
 - This research project is finished in ***AI&FintechLab of Likelihood Technology***.
-- We also receive sponsor from ***Gradient Trading***.<br>
+- We also receive sponsor from ***ShiningMidas Private Fund***.<br>
 
 About
 ====
